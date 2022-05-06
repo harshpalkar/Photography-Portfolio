@@ -28,7 +28,7 @@ html {
 .heading-container > .heading {
   font-family: butler;
   position: relative;
-  top: 19rem;
+  top: 21rem;
   right: 4.5rem;
   align-items: center;
   font-size: 40px;
@@ -258,12 +258,13 @@ label:active:after {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  margin-top: 19rem;
+  margin-top: 21rem;
 }
 
 /* icons lib styling */
 .fa {
   display: flex;
+  top: 25rem;
   justify-content: center;
   padding: 10px;
   font-size: 15px;
