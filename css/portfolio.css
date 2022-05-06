@@ -264,7 +264,6 @@ label:active:after {
 /* icons lib styling */
 .fa {
   display: flex;
-  top: 25rem;
   justify-content: center;
   padding: 10px;
   font-size: 15px;
