@@ -152,7 +152,7 @@ a {
 #about {
   display: flex;
   justify-content: center;
-  font-size: 26px;
+  font-size: 30px;
   opacity: 0.5;
   display: inline-block;
   text-align: center;
@@ -374,7 +374,7 @@ label:active:after {
 }
 #about {
   color: floralwhite;
-  font-family: montserrat;
+  font-family: "Lato", sans-serif;
 }
 .square {
   position: relative;
