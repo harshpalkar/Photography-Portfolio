@@ -104,7 +104,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-size: cover;
-  background-image: url(/img/bgimg.jpg);
+  background-image: url(/bgimg.jpg);
   background-repeat: no-repeat;
   /* position: relative; */
   backdrop-filter: blur(5px);
@@ -277,6 +277,14 @@ label:active:after {
 .fa:hover {
   opacity: 1;
   /* background-color: #dddd; */
+  background: linear-gradient(
+    45deg,
+    #405de6#5851DB,
+    #833ab4,
+    #c13584,
+    #e1306c,
+    #fd1d1d
+  );
   transform: scale(1.7);
 }
 /* Instagram */
@@ -285,7 +293,7 @@ label:active:after {
   /* justify-content: center; */
   /* background: none; */
   /* margin-left: 265px; */
-  color: white;
+
   transition: transform 0.7s;
   /* margin-left: 48rem;
   margin-top: 18rem; */
