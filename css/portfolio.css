@@ -104,7 +104,7 @@ body {
   width: 100vw;
   height: 100vh;
   background-size: cover;
-  background-image: url(/bgimg.jpg);
+  background-image: url(/img/bgimg.jpg);
   background-repeat: no-repeat;
   /* position: relative; */
   backdrop-filter: blur(5px);
@@ -120,7 +120,6 @@ span a {
   content: "";
   width: 100%;
   height: 800px;
-  background: rgb(0, 0, 0, 0.71);
   position: absolute;
   top: 0;
   left: 0;
